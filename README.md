@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Male-white?style=for-the-badge&logoColor=000000&color=ffffff" />
   <img src="https://img.shields.io/badge/Journalist-white?style=for-the-badge&logoColor=000000&color=ffffff" />
-  <img src="https://img.shields.io/badge/Straight%20A's-white?style=for-the-badge&logoColor=000000&color=ffffff" />
-  <img src="https://img.shields.io/badge/Dhelirium-white?style=for-the-badge&logoColor=000000&color=ffffff" />
+  <img src="https://img.shields.io/badge/Exploiter-white?style=for-the-badge&logoColor=000000&color=ffffff" />
 </p>
 
 <p align="center">
